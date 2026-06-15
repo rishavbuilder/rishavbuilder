@@ -53,7 +53,7 @@
       <ul>
         <li>🎯 <strong>Focus:</strong> Frontend Development (React, Next.js, TypeScript)</li>
         <li>🤖 <strong>Exploring:</strong> AI, Python, Automation & Machine Learning</li>
-        <li>📚 <strong>Currently:</strong> Class 12 student building real-world projects</li>
+        <li>📚 <strong>Currently:</strong> BCA Student student building real-world projects</li>
         <li>⚡ <strong>GitHub:</strong> 16+ repos • Active contributor</li>
       </ul>
     </td>
