@@ -17,7 +17,7 @@
         <strong><span style="color:#ff4757">Rishav Builder</span></strong>
       </td>
       <td>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=FF4757&center=true&vCenter=true&width=450&lines=Frontend+Developer;AI+Enthusiast;Open+Source+Creator;BCA Student+%7C+Tech+Innovator" alt="typing" />
+        <img src="https://raw.githubusercontent.com/rishavbuilder/rishavbuilder/main/header.svg" width="450" alt="typing" />
       </td>
     </tr>
     <tr>
