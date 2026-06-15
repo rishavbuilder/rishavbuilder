@@ -150,6 +150,33 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rishavbuilder&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" width="85%" />
+  
+  <br/><br/>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Repos-16+-FF4757?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Projects-10+-FF4757?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Frontend-React%2FNext-FF4757?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AI-Explorer-FF4757?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Android-Kotlin-FF4757?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0d1117" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/OS-Arch%20Linux-FF4757?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0d1117" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
