@@ -1,34 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 70" width="450" height="70">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff4757"/>
+      <stop offset="100%" style="stop-color:#ff6b81"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="448" height="68" rx="10" fill="url(#bg)" stroke="url(#border)" stroke-width="2"/>
   <style>
-    @keyframes fade {
-      0%, 25% { opacity: 1; }
-      30%, 95% { opacity: 0; }
-      100% { opacity: 1; }
-    }
-    @keyframes fade2 {
-      0%, 25% { opacity: 0; }
-      30%, 50% { opacity: 1; }
-      55%, 95% { opacity: 0; }
-      100% { opacity: 0; }
-    }
-    @keyframes fade3 {
-      0%, 50% { opacity: 0; }
-      55%, 75% { opacity: 1; }
-      80%, 95% { opacity: 0; }
-      100% { opacity: 0; }
-    }
-    @keyframes fade4 {
-      0%, 75% { opacity: 0; }
-      80%, 100% { opacity: 1; }
-    }
-    .t1 { animation: fade 4s infinite; }
-    .t2 { animation: fade2 4s infinite; }
-    .t3 { animation: fade3 4s infinite; }
-    .t4 { animation: fade4 4s infinite; }
+    @keyframes f1 { 0%,20% { opacity:1; } 25%,100% { opacity:0; } }
+    @keyframes f2 { 0%,20% { opacity:0; } 25%,45% { opacity:1; } 50%,100% { opacity:0; } }
+    @keyframes f3 { 0%,45% { opacity:0; } 50%,70% { opacity:1; } 75%,100% { opacity:0; } }
+    @keyframes f4 { 0%,70% { opacity:0; } 75%,100% { opacity:1; } }
+    @keyframes cursor { 0%,100% { opacity:1; } 50% { opacity:0; } }
+    .l1 { animation: f1 5s infinite; }
+    .l2 { animation: f2 5s infinite; }
+    .l3 { animation: f3 5s infinite; }
+    .l4 { animation: f4 5s infinite; }
+    .cursor { animation: cursor 0.8s infinite; }
   </style>
-  <rect width="450" height="70" fill="#0d1117" rx="8" />
-  <text x="225" y="42" text-anchor="middle" font-family="Fira Code, monospace" font-size="22" font-weight="700" fill="#ff4757" class="t1">🚀 Frontend Developer</text>
-  <text x="225" y="42" text-anchor="middle" font-family="Fira Code, monospace" font-size="22" font-weight="700" fill="#ff4757" class="t2">🤖 AI Enthusiast</text>
-  <text x="225" y="42" text-anchor="middle" font-family="Fira Code, monospace" font-size="22" font-weight="700" fill="#ff4757" class="t3">🌟 Open Source Creator</text>
-  <text x="225" y="42" text-anchor="middle" font-family="Fira Code, monospace" font-size="22" font-weight="700" fill="#ff4757" class="t4">📘 BCA Student | Tech Innovator</text>
+  <text x="225" y="42" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#ff4757" class="l1">🚀 Frontend Developer</text>
+  <text x="225" y="42" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#ff4757" class="l2">🤖 AI Enthusiast</text>
+  <text x="225" y="42" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#ff4757" class="l3">🌟 Open Source Creator</text>
+  <text x="225" y="42" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#ff4757" class="l4">📘 BCA Student | Tech Innovator</text>
+  <text x="225" y="55" text-anchor="middle" font-family="monospace" font-size="14" fill="#8b949e" class="cursor">_</text>
 </svg>
