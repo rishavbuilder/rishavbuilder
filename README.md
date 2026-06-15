@@ -114,8 +114,28 @@
         <br/><sub>🌐 AI-powered futuristic desktop browser</sub>
       </td>
       <td align="center">
-        <a href="https://github.com/rishavbuilder/sleeppop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishavbuilder&repo=sleeppop&theme=dark&bg_color=0d1117&border_color=ff4757&icon_color=ff4757&title_color=ff4757&text_color=fff" /></a>
-        <br/><sub>😴 Smart sleep detection Android app</sub>
+        <a href="https://github.com/rishavbuilder/pixel-purge-play"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishavbuilder&repo=pixel-purge-play&theme=dark&bg_color=0d1117&border_color=ff4757&icon_color=ff4757&title_color=ff4757&text_color=fff" /></a>
+        <br/><sub>🎮 Pixel art arcade game — Canvas + TypeScript</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/rishavbuilder/medishop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishavbuilder&repo=medishop&theme=dark&bg_color=0d1117&border_color=ff4757&icon_color=ff4757&title_color=ff4757&text_color=fff" /></a>
+        <br/><sub>💊 Medicine ecommerce — Next.js + Supabase</sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/rishavbuilder/wishverse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishavbuilder&repo=wishverse&theme=dark&bg_color=0d1117&border_color=ff4757&icon_color=ff4757&title_color=ff4757&text_color=fff" /></a>
+        <br/><sub>✨ AI Studio with Gemini — React + Firebase</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/rishavbuilder/LeadpromptAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishavbuilder&repo=LeadpromptAI&theme=dark&bg_color=0d1117&border_color=ff4757&icon_color=ff4757&title_color=ff4757&text_color=fff" /></a>
+        <br/><sub>🧠 AI prompts landing page — React + MUI</sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/rishavbuilder/shree-market"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rishavbuilder&repo=shree-market&theme=dark&bg_color=0d1117&border_color=ff4757&icon_color=ff4757&title_color=ff4757&text_color=fff" /></a>
+        <br/><sub>🛒 Local marketplace — Firebase + Express + Gemini</sub>
       </td>
     </tr>
   </table>
