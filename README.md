@@ -1,107 +1,53 @@
-<h1 align="center">Hi 👋, I'm Rishav Builder</h1>
+# 👋 Hi, I'm Rishav!
 
-<h3 align="center">
-Frontend Developer, Creative Builder & Writer
-</h3>
+> **Frontend Developer, Creative Builder & Writer** — Building modern websites and apps.
 
 <p align="center">
-Building modern websites, apps, automation tools & interactive digital experiences.
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 What I Build
 
-- 🌱 Currently learning **Web Development & Advanced Projects**
-- 💻 Interested in **Frontend Development, Android Apps & Automation**
-- ⚡ Building creative digital products and modern UI experiences
-- 🎯 Goal: Become a professional developer & build impactful projects
+- 🌐 **Web Applications** — React, Next.js, TypeScript, Tailwind CSS
+- 🤖 **AI & ML Apps** — Google Gemini, OpenAI API integrations
+- 📱 **Android Apps** — Kotlin, Material Design 3
+- 🖥️ **Desktop Apps** — Electron, React, Framer Motion
 
----
+## 🛠️ Tech Stack
 
-# ✍️ Writer & Story Creator
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, MUI |
+| **Backend** | Node.js, Express.js, Bun, Elysia.js, Hono.js |
+| **Mobile** | Kotlin, Android SDK, Material Design 3 |
+| **Desktop** | Electron |
+| **Database** | Supabase, Firebase |
+| **AI/ML** | Google Gemini, OpenAI, Consumet |
+| **DevOps** | Cloudflare Workers, Vite, Wrangler |
 
-- 📖 Passionate about writing stories, concepts & creative worlds
-- 🧠 Creating original ideas, characters & fictional universes
-- ✨ Interested in storytelling, emotional narratives & creative worldbuilding
-- 📝 Working on personal writing and manga-inspired concepts
+## 📸 Projects
 
-# 🛠️ Tech Stack
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Alpha-](https://github.com/rishavbuilder/Alpha-) | AI multi-model chat platform | React, Next.js |
+| [anveshna](https://github.com/rishavbuilder/anveshna) | Anime streaming website | Next.js |
+| [neonbrowser](https://github.com/rishavbuilder/neonbrowser) | AI-powered desktop browser | Electron, React |
+| [ICTP](https://github.com/rishavbuilder/ICTP) | Image to PDF converter | Kotlin, Android |
+| [medishop](https://github.com/rishavbuilder/medishop) | Online medicine store | Next.js, Supabase |
+| [LeadpromptAI](https://github.com/rishavbuilder/LeadpromptAI) | AI prompts directory | React, MUI |
+| [shree-market](https://github.com/rishavbuilder/shree-market) | Local marketplace | React, Firebase, Gemini |
+| [wishverse](https://github.com/rishavbuilder/wishverse) | AI Studio app | React, Firebase, Gemini |
 
-### Languages
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+## 🏁 Get In Touch
 
----
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
-![Android Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=androidstudio)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
----
-
-# 📌 Featured Projects
-
-## 📱 SleepPop – Universal Sleep Timer App
-- Floating interactive bubble
-- Smart timer system
-- Foreground background service
-- Modern Android UI
+- GitHub: [@rishavbuilder](https://github.com/rishavbuilder)
 
 ---
 
-## 🏏 Telegram Cricket Game Bot
-- Multiplayer gameplay
-- Live scoreboard system
-- Trading & rarity features
-- Group & private support
-
----
-
-## 🎉 Celebration Generator Website
-- Custom celebration pages
-- Shareable links
-- Interactive experiences
-- Responsive modern design
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rishavbuilder&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavbuilder&layout=compact&theme=dark" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rishavbuilder&theme=dark" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/rishavbuilder">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-</p>
-
----
-
-<p align="center">
-⚡ Building. Learning. Creating.
-</p>
+⭐ **Thanks for visiting my profile!**
